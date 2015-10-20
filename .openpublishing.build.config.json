@@ -1,5 +1,6 @@
 {
     "docset_files": [
-            "optest/docs/.openpublishing.build.docset.config.json"
+            "optest/docs/.openpublishing.build.docset.config.json",
+            "optest/test/docs/.openpublishing.build.docset.config.json"
     ]
 }

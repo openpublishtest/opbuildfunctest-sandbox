@@ -6,6 +6,13 @@
             "build_output_subfolder": "optest/docs",
             "locale": "en-US",
             "version": 0,
+            "open_to_public_contributors": "false"
+        },
+        {
+            "docset_name": "optest_testdocs",
+            "build_output_subfolder": "optest/test/docs",
+            "locale": "en-US",
+            "version": 0,
             "open_to_public_contributors": "true"
         }
     ],
