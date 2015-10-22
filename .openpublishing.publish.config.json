@@ -16,5 +16,5 @@
             "open_to_public_contributors": "true"
         }
     ],
-    "notification_subscribers": [ "opbuild@microsoft.com" ]
+    "notification_subscribers": [ ]
 }
