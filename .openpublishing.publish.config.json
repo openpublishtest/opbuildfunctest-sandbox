@@ -2,14 +2,14 @@
     "build_entry_point": "",
     "docsets_to_publish": [
         {
-            "docset_name": "optestdocs",
+            "docset_name": "functest-sandbox-optestdocs",
             "build_output_subfolder": "optest/docs",
             "locale": "en-US",
             "version": 0,
             "open_to_public_contributors": "false"
         },
         {
-            "docset_name": "optest_testdocs",
+            "docset_name": "functest-sandbox-optest_testdocs",
             "build_output_subfolder": "optest/test/docs",
             "locale": "en-US",
             "version": 0,
