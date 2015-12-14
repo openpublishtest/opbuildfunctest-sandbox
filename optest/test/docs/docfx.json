@@ -1,0 +1,24 @@
+{
+  "build": {
+    "content":
+      [
+        {
+          "files": ["**/**.md"],
+          "exclude": ["**/obj/**", "**/**.vsdx"]
+        }
+      ],
+    "resource": [
+        {
+          "files": ["**/images/**"],
+          "exclude": ["**/obj/**"]
+        }
+    ],
+    "externalReference": [
+    ],
+    "globalMetadata": {
+      "ROBOTS": "NOINDEX, NOFOLLOW"
+    },
+    "template": "op.html",
+    "dest": "optest/test/docs"
+  }
+}
