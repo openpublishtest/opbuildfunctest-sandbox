@@ -49,7 +49,7 @@
     <XmlPeek
         Condition="$(UseLatestPackage)"
         XmlInputPath="$(ToolsFolder)NuGet\NuGet.config"
-        Query="//packageSources/add[@key='Azure']/@value">
+        Query="//packageSources/add[@key='NuGet official package source']/@value">
       <Output
           TaskParameter="Result"
           ItemName="NugetSource" />
