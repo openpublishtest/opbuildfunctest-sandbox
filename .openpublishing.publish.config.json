@@ -1,5 +1,5 @@
 {
-    "build_entry_point": "",
+    "build_entry_point": "op",
     "docsets_to_publish": [
         {
             "docset_name": "functest-sandbox-optestdocs",
@@ -16,5 +16,6 @@
             "open_to_public_contributors": "true"
         }
     ],
-    "notification_subscribers": [ "opbuild@microsoft.com" ]
+    "notification_subscribers": [ "opbuild@microsoft.com" ],
+    "branches_to_filter": ["live"]
 }
