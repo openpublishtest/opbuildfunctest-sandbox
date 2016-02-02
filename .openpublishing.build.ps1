@@ -13,5 +13,5 @@ Invoke-WebRequest $buildCorePowershellUrl -OutFile $buildCorePowershellDestinati
 
 # Step-2: Run build core
 echo "run build core script with parameters: $parameters"
-$arguments = "-parameters:'$parameters'"
-Invoke-Expression "$buildCorePowershellDestination $arguments"
+& "$buildCorePowershellDestination" "$parameters"
+exit $LASTEXITCODE
