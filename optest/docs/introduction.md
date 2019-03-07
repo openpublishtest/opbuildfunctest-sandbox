@@ -14,9 +14,6 @@ Open Publishing (OP) is a modern content authoring and publish workflow based on
 	- Use Git (GitHub/VSO) as collaboration interface
 	- Contribute/review/comment using pull request
 
-
-You can see a demo on Open Publishing [here](\\kenchen2\share\op_demo.mp4)
-
 Open Publishing is being developed by the Visual Studio China team. The team owns the MSDN and Technet platforms, as well as other tools related to content authoring and publishing.
 
 1. Why Open Publishing?
